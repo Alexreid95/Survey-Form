@@ -64,8 +64,8 @@
 }
 
 .field {
-    margin: 1em;
-    padding: 1.5em;
+    margin: 2.5em;
+    padding: 2.5em;
     border-style: none;
     border-radius: 1em;
     background-color: var(--text);
@@ -73,6 +73,7 @@
 }
 
 .question-label {
+    margin: 0.5em 0em;
     padding: 0.5em 0;
     font-size: 1.5em;
 }
